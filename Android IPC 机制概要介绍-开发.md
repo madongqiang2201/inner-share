@@ -1,6 +1,6 @@
 ---
 title: Android IPC 机制概要介绍
-date: 2018-11-07 15:20:27
+date: 2021-11-07 15:20:27
 tags: Android IPC
 
 ---
